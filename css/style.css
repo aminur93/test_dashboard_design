@@ -13,3 +13,13 @@
     align-items: center;
     justify-content: center;
 }
+
+.row{
+    flex-direction: column;
+}
+
+.step_one{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
