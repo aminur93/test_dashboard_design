@@ -7,3 +7,9 @@
     transition: all 0.3s linear;
     z-index: 1000;
 }
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
